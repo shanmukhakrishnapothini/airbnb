@@ -760,12 +760,23 @@ body{
     .no2{
         display: none;
     }
+    .no5{
+        width: 100%;
+    }
+    .images{
+        width: 100%;
+        height: 100%;
+    }
+    .no4{
+        width:400px;
+        padding-left: 10px;
+    }
     .imge{
         margin: 0px;
         padding-top: 0px;
         font-size: 40px;
     }
-    .mobile>button{
+    .button{
         width: 100%;
         height: 40px;
         border: 0px;
@@ -773,7 +784,6 @@ body{
         border: 1px solid black;
         background-color: white;
         color: black;
-        margin-left: 10px;
         position: sticky;
         top: 0;
     }
@@ -787,6 +797,9 @@ body{
         align-items: center;
         padding-left:0px;
         display: block;
+        position: sticky;
+        top: 0;
+        background-color: white;
     }
     .no5{
         width: 100%;
@@ -807,10 +820,12 @@ body{
         flex-wrap: wrap;
         height: 100%;
         padding: 0px;
+        margin: 0px;
+        width: auto;
     }
     .no9{
         height: auto;
-        padding: 0px;
+        padding-left:25px;
         text-align: start;
     }
     .h5{
@@ -818,7 +833,6 @@ body{
     }
     .last{
         width: 100%;
-        margin-left: -30px;
     }
     .swet{
         padding: 0px;
@@ -837,6 +851,52 @@ body{
         width: 100%;
         margin: 0px;
         padding: 0px;
+    }
+    body{
+        width: auto;
+        height: auto;
+    }
+    .vin{
+        margin: 0px;
+        padding: 0px;
+    }
+    .kab{
+        margin: 0px;
+        padding: 0px;
+    }
+    .sha{
+        margin: 0px;
+        padding: 0px;
+    }
+    .no3{
+        width: 90%;
+    }
+    .no31{
+        width: 90%;
+    }
+    .no32{
+        width: 90%;
+    }
+    .no33{
+        width: 90%;
+    }
+    .no34{
+        width: 90%;
+    }
+    .no35{
+        width: 90%;
+    }
+    .no36{
+        width: 90%;
+    }
+    .no37{
+        width: 90%;
+    }
+    .no38{
+        width: 90%;
+    }
+    .no39{
+        width: 90%;
     }
 
 }
